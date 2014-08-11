@@ -1,0 +1,23 @@
+{
+  "name": "hello_world",
+  "version": "0.0.1",
+  "description": "first git project",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FancyIdiot/hello_wrold.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "yangjh",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/FancyIdiot/hello_wrold/issues"
+  },
+  "homepage": "https://github.com/FancyIdiot/hello_wrold"
+}
